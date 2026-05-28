@@ -524,5 +524,5 @@ APP_VERSION = "2.0"
 AUTHOR = "Narendra Tamarana"
 
 FOOTER_TEXT = (
-    "🌱 Built with AI and Streamlit"
+    "🌱 Built with AI and Streamlit" 
 )
