@@ -1244,6 +1244,6 @@ st.markdown("---")
 
 st.markdown("""
 <div class="footer">
-Plant Disease Detection Pro | Built with care by Syam Chand Banisetti
+Plant Disease Detection Pro | Built with care by Narendra Tamarana
 </div>
 """, unsafe_allow_html=True)
