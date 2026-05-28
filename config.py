@@ -521,7 +521,7 @@ APP_NAME = "Plant Disease Detection Pro"
 
 APP_VERSION = "2.0"
 
-AUTHOR = "Syam Chand Banisetti"
+AUTHOR = "Narendra Tamarana"
 
 FOOTER_TEXT = (
     "🌱 Built with AI and Streamlit"
