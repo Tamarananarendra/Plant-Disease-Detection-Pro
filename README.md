@@ -64,8 +64,8 @@ Advanced AI-powered plant disease detection system with real-time diagnostics an
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/SyamChandBanisetti/plantdisease-detection.git
-cd plantdisease-detection
+git clone [https://github.com/Tamarananarendra/Plant-Disease-Detection-Pro.git]
+cd Plant-Disease-Detection-Pro
 ```
 
 2. **Create virtual environment**
@@ -254,8 +254,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-**Syam Chand Banisetti**
-- GitHub: [@SyamChandBanisetti](https://github.com/SyamChandBanisetti)
+**Tamarana Narendra**
+- GitHub: [@Tamarananarendra](https://github.com/Tamarananarendra)
 
 ## 🙏 Acknowledgments
 
